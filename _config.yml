@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
 permalink: /:title
+
+title: Tianqi's Blog
+url: http://tianqiyu.github.io
+feed: /atom.xml
+
