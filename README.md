@@ -4,3 +4,6 @@ Just begin to learn how to build a WSN, and set up a blog for record.
 
 (刚刚开始学习搭无线传感网，建一个博客记录自己的学习过程）
 
+
+
+PS: Many thanks to [BeiYuu's Tutorial](http://beiyuu.com/github-pages).
