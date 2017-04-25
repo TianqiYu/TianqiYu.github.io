@@ -6,4 +6,4 @@ Just begin to learn how to build a WSN, and set up a blog for record.
 
 
 
-PS: Many thanks to [BeiYuu's Tutorial](http://beiyuu.com/github-pages).
+PS: Many thanks to [BeiYuu's Tutorial](http://beiyuu.com/github-pages) on Blog setup.
