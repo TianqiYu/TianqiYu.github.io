@@ -470,7 +470,7 @@ a.external:hover {
   background: -o-radial-gradient(top left, #5d3571, #38658c);
   background: -ms-radial-gradient(top left, #5d3571, #38658c);
   background: radial-gradient(to bottom right, #5d3571, #38658c);*/
-  background: url(IMG_1852.jpg);
+  background-image: url(IMG_1852.jpg);
 }
 #disqus_container {
   font-size: 12px;
