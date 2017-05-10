@@ -2,7 +2,6 @@
 layout:     post
 title: Test     
 category: blog
-description: test
 comments: true
 ---
 ## This blog is for testing.
