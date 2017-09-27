@@ -462,7 +462,7 @@ a.external:hover {
   background-repeat: no-repeat;
   -webkit-background-size: 20%;
   -moz-background-size: 20%;
-  background-size: 100%;
+  background-size: 150%;
   background-position: top left;/* 50% 50%;*/
   background-image: url("330.JPG");
   /*background: #38658c;
